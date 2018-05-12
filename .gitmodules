@@ -1,0 +1,3 @@
+[submodule "algebraic-c"]
+	path = algebraic-c
+	url = https://github.com/aneeshdurg/algebraic-c
